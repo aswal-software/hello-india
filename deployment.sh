@@ -1,2 +1,1 @@
-its where alll deployment scripts exits.
-hello welcome to new year:
+its where alll deployment scripts exits.:
